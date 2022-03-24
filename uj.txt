@@ -1,1 +1,7 @@
 Ez egy teszt file, amiben van valami tartalom.
+
+En ezt a sort raktam hozza.
+Es meg egy kis szoveg.
+
+
+
