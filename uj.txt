@@ -1,5 +1,8 @@
 Ez egy teszt file, amiben van valami tartalom.
 
-
 Itt van most valami uj dolog.
 De nem tudtam, hogy te is szerkeszted.
+
+En ezt a sort raktam hozza.
+Es meg egy kis szoveg.
+
